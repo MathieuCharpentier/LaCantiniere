@@ -149,3 +149,4 @@ packages/react/test/build/
 packages/react-router/test/build/
 
 .npmrc
+/src/environments/environment.ts
